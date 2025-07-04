@@ -1,0 +1,12 @@
+
+{
+  "name": "zimyo-automation",
+  "version": "1.0.0",
+  "scripts": {
+    "clockin": "node clockin.js",
+    "clockout": "node clockout.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.3.8"
+  }
+}
